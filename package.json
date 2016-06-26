@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-lb2br",
-  "version": "0.0.1",
-  "description": "convert line breaks to html <br> tag",
+  "version": "0.0.2",
+  "description": "gitbook convert line breaks to html <br> tag",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,11 @@
   "engines": {
     "gitbook": ">=3.0.0"
   },
-  "author": "",
+  "homepage": "http://www.cyper.me",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uniquejava/gitbook-plugin-lb2br.git"
+  },
+  "author": "cyper",
   "license": "ISC"
 }
