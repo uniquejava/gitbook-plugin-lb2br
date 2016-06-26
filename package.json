@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-lb2br",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "gitbook convert line breaks to html br tag",
   "main": "index.js",
   "scripts": {
